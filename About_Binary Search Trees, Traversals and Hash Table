@@ -1,4 +1,4 @@
-** What is the purpose of defining the functions str and repr within a class? **
+**What is the purpose of defining the functions str and repr within a class?**
 
 str() and repr() both are used to get a string representation of object.
 str() is used for creating output for end user and it is more readable
